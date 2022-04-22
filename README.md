@@ -12,7 +12,7 @@ The functionality of the heat control system is coded in embedded c and the work
 Below shows two images where in the 1st image shows the status of the simulation when the system is OFF and the second image shows the status of the system when it is ON. 
 
 #### ON
-![ON](https://github.com/hemanthasapu/embedded_systems_project_256889/blob/main/simulation/Simulation.gif)
+![ON](https://github.com/Swapnil-SP/M2_HeatControlSystem/blob/main/3_Implementation/simulation/Simulation_ON.PNG)
 
 ### Functionality 
 
